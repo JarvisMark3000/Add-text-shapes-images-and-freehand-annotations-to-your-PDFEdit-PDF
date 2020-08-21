@@ -7,9 +7,7 @@ from tkinter.filedialog import askopenfilename, asksaveasfilename
 
 # * Imports of packages that are not included in std library.
 try:
-    """ Try to import PyPDF2 and update it after validating the operating system
-    TODO: These "automations" have to be removed for executable version
-    """
+   
 
     if os.name == "nt":
         command = "python -m pip install pypdf2 --upgrade"
