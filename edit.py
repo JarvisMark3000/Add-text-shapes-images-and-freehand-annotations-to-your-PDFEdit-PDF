@@ -469,5 +469,5 @@ except OSError as e:
     print("Error: %s - %s." % (e.filename, e.strerror))
 
 # Exit the program.
-exitMsg = "Thank you for using Stapler!"
+exitMsg = "Thank you for using the app!"
 quit(exitMsg)
