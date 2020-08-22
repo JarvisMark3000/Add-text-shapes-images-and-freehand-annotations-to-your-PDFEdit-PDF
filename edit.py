@@ -20,11 +20,7 @@ try:
 
 
 except ImportError:
-    """ If PyPDF2 is not installed:
-        - Upgrade the pip
-        - Install PyPDF2
-    TODO:  These "automations" have to be removed for executable version
-    """
+   
 
     # Command to install and/or upgrade pip (Python package index)
     command = "python -m ensurepip --upgrade"
@@ -277,7 +273,7 @@ def merge_files():
 
 def split_file():
     """ Function for splitting selected pages into a seperate pdf file]
-    TODO: Clena up and comment
+    
     """
 
     global files
@@ -310,7 +306,7 @@ def split_window():
     """ Function that creates a Toplevel() window for the split feature.
     Returns:
         None -- Terminates the function.
-    TODO: Clean up and comment
+    
     """
 
     global files
@@ -431,7 +427,7 @@ btn_save = tk.Button(master=fr_buttons,
 ##################
 
 """ Positions of all the elements that build up to be the GUI.
-    TODO: The layout might go inside the Stapler class.
+    
 """
 
 # Position of the widgets.
