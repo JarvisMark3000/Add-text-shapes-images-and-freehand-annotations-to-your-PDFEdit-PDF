@@ -1,0 +1,47 @@
+('C:\\Users\\Ayush Adhikari\\Desktop\\DEPLOY PDF EDIT\\build\\pdf\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Ayush Adhikari\\Desktop\\DEPLOY PDF '
+   'EDIT\\build\\pdf\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'c:\\users\\ayush '
+   'adhikari\\appdata\\local\\programs\\python\\python36\\lib\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'c:\\users\\ayush '
+   'adhikari\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'c:\\users\\ayush '
+   'adhikari\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'c:\\users\\ayush '
+   'adhikari\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\users\\ayush '
+   'adhikari\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'c:\\users\\ayush '
+   'adhikari\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('pdf',
+   'C:\\Users\\Ayush Adhikari\\Desktop\\DEPLOY PDF EDIT\\pdf.py',
+   'PYSOURCE'),
+  ('pdf.exe.manifest',
+   'C:\\Users\\Ayush Adhikari\\Desktop\\DEPLOY PDF '
+   'EDIT\\build\\pdf\\pdf.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False,
+ [])
